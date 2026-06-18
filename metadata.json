@@ -1,0 +1,6 @@
+{
+  "name": "Página de Vendas PRO",
+  "description": "Template de alta conversão para página de vendas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
